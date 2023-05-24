@@ -1,2 +1,2 @@
-# NorthwindSales
-Visual analysis of Northwind Sales Data.
+# Northwind Sales
+A visual analysis of Northwind Sales Data.
